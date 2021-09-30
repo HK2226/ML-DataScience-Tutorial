@@ -3,3 +3,4 @@
 # part - 2 Converting string data to numeric data inorder to use in training and testing
 # part - 3 Filling up the empty place
 # part - 4 Chosing the correct model for our project - Regression/Classification models
+# part - 5 Modifing your model
